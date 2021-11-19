@@ -1,4 +1,4 @@
-# Bmswap Factory
+# Bmswap core
 
 # Local Development
 
